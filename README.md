@@ -1,3 +1,9 @@
+<div style="text-align: center;">
+  <img width="100%" height="20%" src="https://github.com/mjbharathgithub/CV/blob/main/banner.jpeg" alt="my banner">
+</div>
+
+
+
 <h1 align="left">Hi there, I'm Joseph Bharath! 👋</h1>
 🔭 Currently immersed in the world of Web Development<br>👯 Open to collaborating on exciting API development projects<br>🌱 Currently enhancing my skills in React<br>⚡ Fun fact: I enjoy solving complex coding challenges and refining my algorithms
 <br><br><br>
