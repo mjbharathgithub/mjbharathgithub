@@ -7,8 +7,7 @@
 🔭 Currently immersed in the world of Web Development<br>👯 Open to collaborating on exciting API development projects<br>🌱 Currently enhancing my skills in React<br>⚡ Fun fact: I enjoy solving complex coding challenges and refining my algorithms
 <br><br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=mjbharathgithub&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
+![](https://github-readme-stats.vercel.app/api?username=mjbharathgithub&theme=react&show_icons=true)
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
