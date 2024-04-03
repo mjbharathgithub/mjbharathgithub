@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img width="100%" height="100%" src="https://github.com/mjbharathgithub/CV/blob/main/DREAM%20DESIGN%20DEVELOP.png" alt="my banner">
+  <img width="100%" height="100%" src="https://github.com/mjbharathgithub/CV/blob/main/DREAM%20DESIGN%20DEVELOP%20DARK.png" alt="my banner">
 </div>
 
 
