@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img width="100%" height="20%" src="https://github.com/mjbharathgithub/CV/blob/main/Add%20a%20heading.png" alt="my banner">
+  <img width="100%" height="100%" src="https://github.com/mjbharathgithub/CV/blob/main/Add%20a%20heading.png" alt="my banner">
 </div>
 
 <h1 align="left">Hi there, I'm Joseph Bharath! 👋</h1>
