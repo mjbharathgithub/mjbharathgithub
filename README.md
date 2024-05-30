@@ -3,8 +3,11 @@
 </div>
 
 
-<h1 align="left">Hi👋 there, I'm Joseph Bharath! </h1>
-🔭 Currently immersed in the world of Web Development<br>👯 Open to collaborating on exciting API development projects<br>🌱 Currently enhancing my skills in React<br>⚡ Fun fact: I enjoy solving complex coding challenges and refining my algorithms
+<h1 align="left">Hi👋, I'm Joseph Bharath </h1>
+🔭 Currently immersed in the world of Web Development<br>
+👯 Open to collaborating on exciting Web development projects<br>
+🌱 Currently enhancing my skills in React<br>
+⚡ I solve riddles and play chess in my free times
 <br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=mjbharathgithub&theme=react&show_icons=true)
