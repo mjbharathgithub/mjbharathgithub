@@ -4,10 +4,10 @@
 
 
 <h1 align="left">Hi👋, I'm Joseph Bharath </h1>
-🔭 Immersed in the world of programming<br>
-👯 Open to collaborating on exciting Web development projects<br>
+🔭 Immersed in the world of Web Development<br>
+👯 Open to collaborating on exciting projects<br>
 🌱 Currently enhancing my skills in React<br>
-⚡ I solve riddles and play chess in my free times
+⚡ I solve riddles and play chess in my free time
 <br><br><br>
 
 ![](https://github-readme-stats.vercel.app/api?username=mjbharathgithub&theme=react&show_icons=true)
