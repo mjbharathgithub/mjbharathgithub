@@ -4,7 +4,7 @@
 
 
 <h1 align="left">Hi👋, I'm Joseph Bharath </h1>
-🔭 Currently immersed in the world of Programming<br>
+🔭 Immersed in the world of Programming<br>
 👯 Open to collaborating on exciting Web development projects<br>
 🌱 Currently enhancing my skills in React<br>
 ⚡ I solve riddles and play chess in my free times
